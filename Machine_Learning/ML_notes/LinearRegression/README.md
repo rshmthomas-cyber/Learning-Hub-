@@ -107,11 +107,11 @@ Advantages
 
 You can also view my original handwritten notes here:
 
-📄 Linear Regression(1).jpeg
+📄 [Linear Regression pg 1](https://github.com/rshmthomas-cyber/Learning-Hub-/blob/main/Machine_Learning/ML_notes/LinearRegression/Linear%20Regression(1).jpeg)
 
-📄 Linear Regression(2).jpeg
+📄 [Linear Regression pg 2](https://github.com/rshmthomas-cyber/Learning-Hub-/blob/main/Machine_Learning/ML_notes/LinearRegression/Linear%20Regression(2).jpeg)
 
-📄 Linear Regression(3).jpeg
+📄 [Linear Regression pg 3](https://github.com/rshmthomas-cyber/Learning-Hub-/blob/main/Machine_Learning/ML_notes/LinearRegression/Linear%20Regression(3).jpeg)
 
 Summary
 
